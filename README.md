@@ -1,4 +1,5 @@
 # gerenciamentoVeiculoPolicial
-:coffee: :police_car: Projeto Inicial de Gerenciamento de Veículo Policial
+:coffee: SPRING BOOT API REST (JAVA)
+:police_car: Projeto Inicial de Gerenciamento de Veículo Policial (backand)
 
 Projeto tem como objetivo criar um sistema de gerenciamento de veículos de policias.
